@@ -1,4 +1,7 @@
 # Morels
 Unity3D version of Morels card-game. Two player game over LAN connection.
 
-See morelsdemo.mov for basic gameplay.
+See morelsdemo.mov for a short demo.
+
+Download the executable files here:
+https://itch.io/dashboard
